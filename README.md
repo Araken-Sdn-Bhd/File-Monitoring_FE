@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Free and beautiful Vue.js admin template with 44+ custom UI components.</br>
+  testing Free and beautiful Vue.js admin template with 44+ custom UI components.</br>
   Developed by  <a href="https://epicmax.co">Epicmax</a>.
   Designed by <a href="#">Vasili Savitski</a>
 <br>
